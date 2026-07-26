@@ -1,6 +1,4 @@
 {
-  "blocked_device_ids": [
-    "ed0fe3421c9c787f47b870aab98c64030f02ab95c4ae6793c9adb810fdbde6e6"
-  ],
-  "signature": "SF9cFDegpstELrUXzG2zzx89Y7GOlvBGxM1Gz5kIIIxmNbZVuL0w8rSWA05ouLEOwZ5+lvmTutVE6TA70FLcDg=="
+  "blocked_device_ids": [],
+  "signature": "FOFxzlyzfJSCS1kae/Sb8sQHLTJqeDf4BrzohLmq4cFr70aKKY00+9dih8LVUrshSYXDMd2EolHQDawaGSCMBw=="
 }
